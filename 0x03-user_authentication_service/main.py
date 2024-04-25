@@ -4,7 +4,7 @@
 import requests
 
 
-EMAIL = "guillaume@holberton.io"
+EMAIL = "rantshothabisomail@gmail.com"
 PASSWD = "b4l0u"
 NEW_PASSWD = "t4rt1fl3tt3"
 BASE_URL = "http://0.0.0.0:5000"
